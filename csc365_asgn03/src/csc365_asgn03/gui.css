@@ -1,0 +1,11 @@
+.text-field {
+    -fx-text-box-border: #0093ff;
+    -fx-accent: #0093ff;
+    -fx-focus-color: #0093ff;
+}
+
+.text-field.error {
+    -fx-text-box-border: red;
+    -fx-accent: red;
+    -fx-focus-color: red;
+}
