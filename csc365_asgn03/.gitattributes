@@ -1,1 +1,4 @@
+csc365_asgn03/data/* linguist-vendored
 csc365_asgn03/build/* linguist-vendored
+csc365_asgn03/dist/* linguist-vendored
+csc365_asgn03/nbproject/* linguist-vendored
